@@ -42,6 +42,8 @@ liveCatalogUrl: "https://brinzauls.wi-251124.workers.dev",
     </a>
     , Kyoto Design Lab
   `,
+  coordinates:
+    "47.123727, 9.082380",
 
   startView: {
   position: [607.803, -614.757, 1336.936],
