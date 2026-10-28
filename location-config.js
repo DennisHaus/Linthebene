@@ -13,7 +13,7 @@ window.LOCATION_CONFIG = {
 
   catalogUrl: "./catalog.json",
 
-liveCatalogUrl: "https://brinzauls.wi-251124.workers.dev/$site=linthebene",
+liveCatalogUrl: "https://brinzauls.wi-251124.workers.dev/?site=linthebene",
 
   brandSubtitle: `
   copc viewer & point cloud model interface | for collecting, storing and
