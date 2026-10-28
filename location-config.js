@@ -1,5 +1,5 @@
 window.LOCATION_CONFIG = {
-  pageTitle: "Spatial Library Linthebene",
+  pageTitle: "Linthebene",
 
   metaDescription:
     "Cloud optimized point cloud viewer.",
@@ -8,14 +8,12 @@ window.LOCATION_CONFIG = {
     "© ETH ZURICH",
 
   brandTitle: `
-    SPATIAL<br>
-    LIBRARY<br>
     LINTHEBENE
   `,
 
   catalogUrl: "./catalog.json",
 
-liveCatalogUrl: "https://brinzauls.wi-251124.workers.dev",
+liveCatalogUrl: "https://linthebene.wi-251124.workers.dev",
 
   brandSubtitle: `
   copc viewer & point cloud model interface | for collecting, storing and
