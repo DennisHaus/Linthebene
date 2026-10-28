@@ -74,7 +74,7 @@ liveCatalogUrl: "https://brinzauls.wi-251124.workers.dev/?site=linthebene",
   useRawBaseForPaths: true,
 
   rawBaseUrl:
-    "https://pub-94c79225d4a04ec5ae8026f40699596b.r2.dev",
+    "https://pub-0311a1f588414e60afce520fc38a22fe.r2.dev",
 
   downloadPassword: "Voser",
 
