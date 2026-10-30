@@ -43,6 +43,10 @@ liveCatalogUrl: "https://brinzauls.wi-251124.workers.dev/?site=linthebene",
   coordinates:
     "47.123727, 9.082380",
 
+    startView: {
+      position: [-1192.621, -4219.143, 6151.062],
+      target: [-653.258, 271.358, 639.547]
+    },
 
   navigationMode: "Orbit",
 
