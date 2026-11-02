@@ -48,7 +48,7 @@ liveCatalogUrl: "https://brinzauls.wi-251124.workers.dev/?site=linthebene",
       target: [-653.258, 271.358, 639.547]
     },
 
-  navigationMode: "Orbit",
+  navigationMode: "orbit",
 
   /*
     Which side panels are open when the page opens.
