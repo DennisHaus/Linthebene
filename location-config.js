@@ -80,7 +80,8 @@ liveCatalogUrl: "https://brinzauls.wi-251124.workers.dev/?site=linthebene",
 
   /* Needed now, because uploadUrl no longer points to GitHub */
   locationsSaveUrl:
-    "https://github.com/DennisHaus/linthebene",
+    "https://github.com/DennisHaus/linthebene/new/main/locations",
+
 
   /*
     Shift added to the coordinates shown when measuring.
