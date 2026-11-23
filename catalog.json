@@ -38,39 +38,39 @@
       "uploadedAt": "2026-11-01"
     },
     {
-      "id": "scans-videos-250520-insitu-modelling-kl",
-      "name": "250520 Insitu Modelling Kl",
-      "filename": "250520_Insitu_Modelling_kl.mp4",
-      "path": "./scans/Videos/250520_Insitu_Modelling_kl.mp4",
-      "url": "./scans/Videos/250520_Insitu_Modelling_kl.mp4",
+      "id": "scans-videos-videos-250520-insitu-modelling-kl-1",
+      "name": "Videos 250520 Insitu Modelling Kl 1",
+      "filename": "Videos_250520_Insitu_Modelling_kl_1.mp4",
+      "path": "./scans/Videos/Videos_250520_Insitu_Modelling_kl_1.mp4",
+      "url": "./scans/Videos/Videos_250520_Insitu_Modelling_kl_1.mp4",
       "format": "mp4",
-      "sizeBytes": 119987405,
+      "sizeBytes": 31322440,
       "pointCount": null,
       "crs": null,
-      "uploadedAt": "2026-10-28",
+      "uploadedAt": "2026-11-23",
       "location": [
-        -601.0,
-        537.65,
-        425.53
+        1054.09,
+        1357.97,
+        451.48
       ]
     },
     {
-      "id": "scans-videos-251117-linthebene-animiert-rueck3",
-      "name": "251117 Linthebene Animiert Rueck3",
-      "filename": "251117_Linthebene_animiert_rueck3.mov",
-      "path": "./scans/Videos/251117_Linthebene_animiert_rueck3.mov",
-      "url": "./scans/Videos/251117_Linthebene_animiert_rueck3.mov",
-      "format": "mov",
-      "sizeBytes": 103133874,
+      "id": "scans-videos-videos-251117-linthebene-animiert-rueck3",
+      "name": "Videos 251117 Linthebene Animiert Rueck3",
+      "filename": "Videos_251117_Linthebene_animiert_rueck3.mp4",
+      "path": "./scans/Videos/Videos_251117_Linthebene_animiert_rueck3.mp4",
+      "url": "./scans/Videos/Videos_251117_Linthebene_animiert_rueck3.mp4",
+      "format": "mp4",
+      "sizeBytes": 27183345,
       "pointCount": null,
       "crs": null,
-      "uploadedAt": "2026-10-30",
+      "uploadedAt": "2026-11-23",
       "location": [
-        1080.78,
-        1417.65,
-        433.4
+        -612.26,
+        395.73,
+        425.28
       ]
     }
   ],
-  "locationsApplied": "2026-11-02-162001.json"
+  "locationsApplied": "2026-11-23-231534.json"
 }
